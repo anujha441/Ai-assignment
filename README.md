@@ -1,2 +1,2 @@
-# Ai-assignment
-Artificial Intelligence Assignment
+# Ai-Experiments
+Artificial Intelligence Experiment
